@@ -31,7 +31,7 @@ This repository contains a **professional Excel-based data analysis project**.  
 ---
 
 ## 🖼️ Preview
-![Dashboard Screenshot](images/dashboard.png)
+<img width="1729" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/91bfb7f5-64f9-40c2-8ab6-c6bbeb5b3845" />
 
 ---
 
